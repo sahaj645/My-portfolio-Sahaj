@@ -13,7 +13,7 @@ const skillCategories = [
       { name: 'Java', desc: 'Enterprise applications' },
       { name: 'Python', desc: 'Data science & backend' },
       { name: 'JavaScript', desc: 'Modern ES6+ features' },
-      { name: 'Dart', desc: 'Flutter development' },
+      
       { name: 'R', desc: 'Statistical computing' }
     ]
   },
@@ -29,22 +29,11 @@ const skillCategories = [
       { name: 'Tailwind CSS', desc: 'Utility-first CSS' },
       { name: 'Node.js', desc: 'Server-side JavaScript' },
       { name: 'Express.js', desc: 'Web application framework' },
-      { name: 'Flask', desc: 'Python web framework' },
+      
       { name: 'Socket.io', desc: 'Real-time communication' }
     ]
   },
-  {
-    title: 'Mobile Development',
-    icon: Smartphone,
-    color: 'text-green-600',
-    bgColor: 'from-green-50 to-green-100',
-    borderColor: 'border-green-500',
-    skills: [
-      { name: 'Android', desc: 'Native Android development' },
-      { name: 'Flutter', desc: 'Cross-platform mobile apps' },
-      { name: 'Dart', desc: 'Flutter programming language' },
-    ]
-  },
+  
   {
     title: 'Databases & Cloud',
     icon: Database,
@@ -55,7 +44,7 @@ const skillCategories = [
       { name: 'MongoDB', desc: 'NoSQL database' },
       { name: 'SQL', desc: 'Relational databases' },
       { name: 'Firebase', desc: 'Backend as a Service' },
-      { name: 'Supabase', desc: 'Backend as a Service' },
+      
       { name: 'AWS', desc: 'Cloud computing platform' },
     ]
   },
