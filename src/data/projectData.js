@@ -20,7 +20,7 @@ const projects = [
     image: movieImage,
     description: 'A web application that recommends movies similar to a selected title using content-based filtering.',
     techStack: ['React', 'Fast Api', 'NLP'],
-    github: 'https://github.com/sahaj645/movie-recommendation-website',
+    
     demo: 'https://movie-recommendation-website-eight.vercel.app/',
   },
   
