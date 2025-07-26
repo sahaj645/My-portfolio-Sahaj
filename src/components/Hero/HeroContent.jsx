@@ -13,7 +13,7 @@ const HeroContent = () => {
       </div>
       <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-2 tracking-tight">
         <span className="inline-block transform hover:scale-105 transition-transform duration-300">
-          Aabhas
+          Sahaj
         </span>
         <span className="inline-block transform hover:scale-105 transition-transform duration-300 delay-75 ml-2 sm:ml-4 bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent">
           Gaur

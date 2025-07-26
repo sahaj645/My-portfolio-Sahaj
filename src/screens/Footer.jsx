@@ -25,19 +25,19 @@ const Footer = () => {
     {
       name: "LinkedIn",
       icon: 'lucide:linkedin',
-      url: "https://www.linkedin.com/in/aabhas-gaur-13406123a/",
+      url: "https://www.linkedin.com/in/Sahaj-gaur-13406123a/",
       color: "hover:text-blue-400 hover:shadow-blue-400/20",
     },
     {
       name: "GitHub",
       icon: 'lucide:github',
-      url: "https://github.com/AabhasGaur19",
+      url: "https://github.com/SahajGaur19",
       color: "hover:text-purple-400 hover:shadow-purple-400/20",
     },
     {
       name: "Email",
       icon: 'lucide:mail',
-      url: "mailto:aabhasgaur@example.com",
+      url: "mailto:Sahajgaur@example.com",
       color: "hover:text-green-400 hover:shadow-green-400/20",
     },
   ];

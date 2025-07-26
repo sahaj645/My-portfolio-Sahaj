@@ -40,7 +40,7 @@ const Contact = () => {
         from_name: formData.name,
         from_email: formData.email,
         message: formData.message,
-        to_name: 'Aabhas Gaur', // Your name
+        to_name: 'Sahaj Gaur', // Your name
       };
 
       await emailjs.send(serviceId, templateId, templateParams, publicKey);
@@ -64,10 +64,10 @@ const Contact = () => {
   };
 
   const socialLinks = [
-    { name: 'LinkedIn', icon: 'logos:linkedin-icon', url: 'https://www.linkedin.com/in/aabhas-gaur-13406123a/' },
-    { name: 'GitHub', icon: 'logos:github-icon', url: 'https://github.com/AabhasGaur19' },
+    { name: 'LinkedIn', icon: 'logos:linkedin-icon', url: 'https://www.linkedin.com/in/Sahaj-gaur-13406123a/' },
+    { name: 'GitHub', icon: 'logos:github-icon', url: 'https://github.com/SahajGaur19' },
     { name: 'WhatsApp', icon: 'logos:whatsapp-icon', url: 'https://wa.me/9829146140' },
-    { name: 'Twitter', icon: 'logos:twitter', url: 'https://twitter.com/aabhas_gaur' },
+    { name: 'Twitter', icon: 'logos:twitter', url: 'https://twitter.com/Sahaj_gaur' },
   ];
 
   return (

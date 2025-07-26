@@ -13,7 +13,7 @@ const FooterBottom = ({ currentYear }) => {
           <Heart className="w-3 sm:w-4 h-3 sm:h-4 text-red-400 animate-pulse" />
           <span>and lots of</span>
           <Coffee className="w-3 sm:w-4 h-3 sm:h-4 text-amber-400" />
-          <span>by Aabhas</span>
+          <span>by Sahaj</span>
         </div>
       </div>
     </div>
