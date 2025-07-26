@@ -14,7 +14,7 @@ const SkillsTabs = ({ activeTab, setActiveTab }) => {
         { name: "CSS3", desc: "Modern styling & animations" },
         { name: "JavaScript", desc: "Modern ES6+ features" },
         { name: "React", desc: "Component-based UI library" },
-        { name: "Flutter", desc: "Component-based UI library" },
+        
         { name: "Tailwind CSS", desc: "Utility-first framework" },
         { name: "Framer motion", desc: "Animation library" },
       ],
@@ -64,7 +64,7 @@ const SkillsTabs = ({ activeTab, setActiveTab }) => {
         { name: "Java", desc: "Object-oriented programming" },
         { name: "Python", desc: "Data science & web dev" },
         { name: "JavaScript", desc: "Full-stack development" },
-        { name: "Dart", desc: "UI language" },
+        
         { name: "Git", desc: "Version control" },
         { name: "Docker", desc: "Containerization" },
         { name: "AWS", desc: "Cloud services" },

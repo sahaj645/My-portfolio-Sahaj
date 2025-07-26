@@ -23,10 +23,10 @@ const ContactInfo = ({ socialLinks }) => {
           <div className="min-w-0 flex-1">
             <p className="text-xs sm:text-sm text-gray-500 font-medium">Email</p>
             <a
-              href="mailto:aabhasgaur14@gmail.com"
+              href="mailto:sahajgaur2005@gmail.com"
               className="text-gray-700 hover:text-blue-600 transition-colors duration-300 font-medium text-sm sm:text-base break-all"
             >
-              aabhasgaur14@gmail.com
+             sahajgaur2005@gmail.com
             </a>
           </div>
         </div>
@@ -42,7 +42,7 @@ const ContactInfo = ({ socialLinks }) => {
               href="tel:+919829146140"
               className="text-gray-700 hover:text-purple-600 transition-colors duration-300 font-medium text-sm sm:text-base"
             >
-              +91 9829146140
+              +91 9928961531
             </a>
           </div>
         </div>

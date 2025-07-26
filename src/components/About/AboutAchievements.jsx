@@ -3,14 +3,14 @@ import { Trophy, Star, Award, Code } from 'lucide-react';
 
 const AboutAchievements = () => {
   const achievements = [
-    { icon: Trophy, label: 'CGPA', value: '9.19/10', color: 'text-yellow-600' },
-    { icon: Star, label: 'Hackathons', value: '5', color: 'text-blue-600' },
-    { icon: Award, label: 'Leetcode problems', value: '600+', color: 'text-purple-600' },
+    { icon: Trophy, label: 'CGPA', value: '8.64/10', color: 'text-yellow-600' },
+    { icon: Star, label: 'Interships', value: '3', color: 'text-blue-600' },
+
     { icon: Code, label: 'Projects', value: '10+', color: 'text-green-600' },
   ];
 
   return (
-    <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-8 sm:mb-12">
+    <div className="grid grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-4 mb-8 sm:mb-12">
       {achievements.map((achievement, index) => {
         const IconComponent = achievement.icon;
         return (

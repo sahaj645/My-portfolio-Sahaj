@@ -2,7 +2,7 @@ const experiences = [
   {
     company: "Defence Research and Development Organisation (DRDO)",
     role: "Research Intern",
-    duration: "May 2025 – Present",
+    duration: "May 2025 – June 2025",
     description:
       "During my internship at DRDO, I explored AI-adapted time ensembles as a novel alternative to traditional methods like the Kalman Filter and Three-Cornered Hat for atomic timekeeping. I developed models capable of learning non-linear drift patterns and dynamically adjusting to changing noise conditions, improving reliability in GPS-denied and defense-critical environments. By incorporating external factors such as temperature variations and oscillator behavior, the system achieved greater context-aware synchronization. In a 30-day GPS-synced simulation, this approach reduced Allan deviation by up to 71% compared to existing techniques, demonstrating its potential to redefine precision timing",
     techStack: ["Neural Networks", "Signal Processing", "Python", "Atomic Clocks", "Time Ensemble Algorithms"],

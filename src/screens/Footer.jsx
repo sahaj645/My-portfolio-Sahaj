@@ -25,19 +25,19 @@ const Footer = () => {
     {
       name: "LinkedIn",
       icon: 'lucide:linkedin',
-      url: "https://www.linkedin.com/in/Sahaj-gaur-13406123a/",
+      url: "https://www.linkedin.com/in/sahaj-gaur-462477288",
       color: "hover:text-blue-400 hover:shadow-blue-400/20",
     },
     {
       name: "GitHub",
       icon: 'lucide:github',
-      url: "https://github.com/SahajGaur19",
+      url: "https://github.com/sahaj645",
       color: "hover:text-purple-400 hover:shadow-purple-400/20",
     },
     {
       name: "Email",
       icon: 'lucide:mail',
-      url: "mailto:Sahajgaur@example.com",
+      url: "mailto:sahajgaur2005@gmail.com",
       color: "hover:text-green-400 hover:shadow-green-400/20",
     },
   ];
@@ -45,7 +45,6 @@ const Footer = () => {
   const skills = [
     "Full Stack Developer",
     "Web Developer",
-    "Mobile Developer",
     "ML Developer",
   ];
 

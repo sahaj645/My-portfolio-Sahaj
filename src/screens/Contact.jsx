@@ -64,10 +64,10 @@ const Contact = () => {
   };
 
   const socialLinks = [
-    { name: 'LinkedIn', icon: 'logos:linkedin-icon', url: 'https://www.linkedin.com/in/Sahaj-gaur-13406123a/' },
-    { name: 'GitHub', icon: 'logos:github-icon', url: 'https://github.com/SahajGaur19' },
-    { name: 'WhatsApp', icon: 'logos:whatsapp-icon', url: 'https://wa.me/9829146140' },
-    { name: 'Twitter', icon: 'logos:twitter', url: 'https://twitter.com/Sahaj_gaur' },
+    { name: 'LinkedIn', icon: 'logos:linkedin-icon', url: 'https://www.linkedin.com/in/sahaj-gaur-462477288/' },
+    { name: 'GitHub', icon: 'logos:github-icon', url: 'https://github.com/sahaj645' },
+    { name: 'WhatsApp', icon: 'logos:whatsapp-icon', url: 'https://wa.me/9928961531' },
+    
   ];
 
   return (

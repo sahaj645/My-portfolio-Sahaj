@@ -21,10 +21,10 @@ const AboutMainContent = ({ activeTab }) => {
               </h3>
             </div>
             <p className="text-base sm:text-lg text-gray-700 leading-relaxed">
-              I'm a passionate web, mobile, and AI/ML developer currently pursuing my studies in Computer Science. I enjoy
+              I'm a passionate web and AI/ML developer currently pursuing my studies in Computer Science. I enjoy
               building responsive applications with{' '}
               <span className="font-semibold text-blue-600">web development</span>,
-              <span className="font-semibold text-purple-600"> mobile development</span>, and
+              
               <span className="font-semibold text-green-600"> database management</span>, along with
               <span className="font-semibold text-orange-600"> problem solving</span> and exploring intelligent solutions with
               <span className="font-semibold text-indigo-600"> machine learning</span>.
@@ -75,7 +75,7 @@ const AboutMainContent = ({ activeTab }) => {
                       <div className="flex items-center gap-2 sm:gap-4 flex-wrap">
                         <div className="flex items-center gap-1">
                           <Trophy className="w-4 h-4 text-yellow-600" />
-                          <span className="text-blue-600 font-medium text-sm sm:text-base">CGPA: 9.19/10</span>
+                          <span className="text-blue-600 font-medium text-sm sm:text-base">CGPA: 8.64/10</span>
                         </div>
                       </div>
                     </div>
@@ -92,7 +92,7 @@ const AboutMainContent = ({ activeTab }) => {
                 </div>
                 <div className="flex items-center gap-1">
                   <Star className="w-4 h-4 text-blue-600" />
-                  <span className="text-blue-600 font-medium text-sm sm:text-base">Percentage: 94.8%</span>
+                  <span className="text-blue-600 font-medium text-sm sm:text-base">Percentage: 85.2%</span>
                 </div>
               </div>
               <div className="bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl p-4 sm:p-6 border-l-4 border-green-500 hover:shadow-lg transition-shadow duration-300">
@@ -101,11 +101,11 @@ const AboutMainContent = ({ activeTab }) => {
                 </h4>
                 <div className="flex items-start sm:items-center gap-2 text-gray-600 mb-2 flex-wrap">
                   <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5 sm:mt-0" />
-                  <span className="text-sm sm:text-base">Maa Bharti Senior Secondary School</span>
+                  <span className="text-sm sm:text-base">Nalanda Acadmey</span>
                 </div>
                 <div className="flex items-center gap-1">
                   <Award className="w-4 h-4 text-purple-600" />
-                  <span className="text-blue-600 font-medium text-sm sm:text-base">Percentage: 91.2%</span>
+                  <span className="text-blue-600 font-medium text-sm sm:text-base">Percentage: 91.8%</span>
                 </div>
               </div>
             </div>

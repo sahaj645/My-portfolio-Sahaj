@@ -2,13 +2,13 @@
 import movieImage from '../assets/movie.png';
 
 import causeListImage from '../assets/causeList.png';
-// import vol from '../assets/volatility.jpg';  
+ import vol from '../assets/volatility.jpg';  
 
 const projects = [
    {
     title: 'GAN-Powered Option Valuation Engine',
     category: ['ML', 'Finance'],
-    //  image: vol,
+      image: vol,
     description: 'A GAN-CNN based model for accurate and real-time equity option valuation.',
     techStack: ['Python', 'GAN', 'CNN'],
     github: 'https://github.com/sahaj645/tbc-gan', 
