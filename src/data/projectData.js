@@ -30,7 +30,7 @@ const projects = [
     image: causeListImage,
     description: 'A helpful tool that simplifies and organizes complex court case lists, making them easier to understand.',
     techStack: ['React', 'Node.js'],
-    github: 'https://github.com/sahaj645/Mahesh-sharma-and-associate',
+    github: 'https://github.com/sahaj645/causelist',
     demo: 'https://mahesh-sharma-and-associate.vercel.app/',
   },
  
