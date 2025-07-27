@@ -4,13 +4,13 @@ import { Trophy, Star, Code, Sparkles } from 'lucide-react';
 const SkillsStats = () => {
   const stats = [
     { icon: Trophy, number: '25+', label: 'Technologies', color: 'text-yellow-600' },
-    { icon: Star, number: '5', label: 'Categories', color: 'text-blue-600' },
+    
     { icon: Code, number: '3', label: 'Internships', color: 'text-purple-600' },
     { icon: Sparkles, number: '10+', label: 'Projects Built', color: 'text-green-600' }
   ];
 
   return (
-    <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-12">
+    <div className="grid grid-cols-2 md:grid-cols-3 gap-6 mb-12">
       {stats.map((stat, index) => {
         const IconComponent = stat.icon;
         return (
